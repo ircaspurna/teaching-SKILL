@@ -355,7 +355,7 @@ The UIPR Framework is domain-agnostic at its core. To customize it for a specifi
 | Parameter | Description | Example |
 |-----------|-------------|---------|
 | **Domain context** | The learner's field, interests, and application area | Text analytics, medical education, music composition |
-| **Anchor examples** | Recurring real-world examples used to ground concepts | News articles, patient cases, chord progressions |
+| **Anchor examples** | Recurring real-world examples used to ground concepts | Code repositories, financial statements, API documentation |
 | **Depth target** | How deep understanding needs to go | 70% practical / 30% theoretical |
 | **Practice format** | How the learner implements concepts | Writing code, solving problems, building prototypes, writing essays |
 | **Culminating projects** | Phase-end projects connecting concepts to application | Build a CLI tool, compose a piece, analyze a dataset |

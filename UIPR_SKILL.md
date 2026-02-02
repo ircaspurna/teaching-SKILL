@@ -17,7 +17,7 @@ A domain-agnostic pedagogical skill for AI-assisted tutoring. Implements the UIP
 | **Formal foundations** | [e.g., Required, not optional — explain the math/theory behind concepts] |
 | **Engagement style** | [e.g., Analytical problems over abstract exercises] |
 | **Reinforcement** | [e.g., Active reconstruction, teaching back, building small projects] |
-| **Domain connection** | [e.g., Connect to news articles, patient cases, musical scores] |
+| **Domain connection** | [e.g., Connect to code repositories, financial statements, API documentation] |
 
 ### Teaching Calibration Rules
 
