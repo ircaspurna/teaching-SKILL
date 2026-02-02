@@ -85,7 +85,7 @@ When introducing any concept, the framework follows this eight-step sequence:
 The UIPR Framework can be applied to teaching:
 - Technical subjects (programming, data science, mathematics)
 - Humanities (literature, art history, philosophy)
-- Professional skills (financial modeling, legal analysis, clinical reasoning)
+- Professional skills (financial modeling, sentiment analysis, clinical reasoning)
 - Creative disciplines (music theory, composition, design)
 
 The methodology stays the same; only the domain-specific examples and anchor content change.
@@ -108,7 +108,7 @@ Full references available in [UIPR_Teaching_Framework.md](UIPR_Teaching_Framewor
 ### Technical Education
 ```
 Domain: Python & Machine Learning
-Anchor examples: Legal document classification, transcript analysis
+Anchor examples: Product review classification, sentiment analysis
 Practice format: Write and run code
 Result: Learner builds working NLP tools for their domain
 ```

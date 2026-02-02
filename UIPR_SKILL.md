@@ -17,7 +17,7 @@ A domain-agnostic pedagogical skill for AI-assisted tutoring. Implements the UIP
 | **Formal foundations** | [e.g., Required, not optional — explain the math/theory behind concepts] |
 | **Engagement style** | [e.g., Analytical problems over abstract exercises] |
 | **Reinforcement** | [e.g., Active reconstruction, teaching back, building small projects] |
-| **Domain connection** | [e.g., Connect to court transcripts, patient cases, musical scores] |
+| **Domain connection** | [e.g., Connect to news articles, patient cases, musical scores] |
 
 ### Teaching Calibration Rules
 
@@ -183,7 +183,7 @@ Pattern: Observation → Problem → Solution
 Step 1: "In English, we think in words. But what *is* a word?"
 Step 2: "Consider 'don't' — is that 1 word or 2?"
 Step 3: "Now consider 'unhappiness' — could we break that into meaningful parts?"
-Step 4: [Domain-specific example: "The witness stated..." / "The patient reported..."]
+Step 4: [Domain-specific example: "The product was amazing!" / "Breaking news today..."]
 Step 5: [Compare approaches on real domain text]
 Step 6: [Implement from scratch]
 ```
@@ -296,10 +296,10 @@ Throughout ALL phases, use examples from the learner's domain. This is not decor
 
 | Domain Element | Application Across Phases |
 |----------------|---------------------------|
-| [e.g., Court transcripts] | [e.g., Text processing, structuring, analysis, classification, search] |
-| [e.g., Legal documents] | [e.g., Classification, entity extraction, summarization] |
-| [e.g., Depositions] | [e.g., Q&A extraction, semantic search] |
-| [e.g., Domain-specific challenge] | [e.g., Feature engineering, detection, modeling] |
+| [e.g., News articles] | [e.g., Text processing, structuring, analysis, classification, search] |
+| [e.g., Product reviews] | [e.g., Classification, entity extraction, sentiment analysis] |
+| [e.g., Social media posts] | [e.g., Topic modeling, sentiment tracking, trend detection] |
+| [e.g., Domain-specific challenge] | [e.g., Feature engineering, pattern detection, modeling] |
 
 ### Domain Threading Pattern
 
